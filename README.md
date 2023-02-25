@@ -1,5 +1,5 @@
 # F.O.O.T.B.A.L.L. II C.O.N.S.T.I.T.U.T.I.O.N.
-Thank you for your interest in the Franchise Owner's Organization to Battle America's Lackadaisical Leagues II and welcome to our Constitution Outlining Nuanced blah blah blah
+Thank you for your interest in the Franchise Owner's Organization to Battle America's Lackadaisical Leagues II and welcome to our Codified Ordinance Noting Simple Traditions Intelligently Transcribed Utilizing Tautological Intrinsic Outlandish Nomenclature.
 
 ## Rookie Draft
 1. Rookie draft order will be determined by final ranking for playoff teams with league champion drafting last.
