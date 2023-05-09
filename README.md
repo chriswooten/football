@@ -5,14 +5,33 @@ Thank you for your interest in the Franchise Owner's Organization to Battle Amer
 1. Rookie draft order will be determined by final ranking for playoff teams with league champion drafting last.
 2. For teams that do not make the playoffs, rookie draft order will be determined by potential points with fewest potential points drafting first.
 
-## Startup Rules
+## Free Agent Draft
+* Do we need one?
+
+## Startup Draft
+
+## Waivers
+
+## Injured Reserve
+
+## Trades
+### Trade Deadline
+* There is no trade deadline.
+### Trading future picks
 
 ## Team Setup
 
 ## Scoring
 
-## Trade Deadline
-There is no trade deadline.
+## Salary Cap
+* Not sure...
+* Certainly not as complicated as F.O.O.T.B.A.L.L. O.G.
+
+## Contracts
+### Contract Extensions
+### Franchise Tags
+### Transition Tags
+### Holdouts
 
 ## Division Realignments
 ??
@@ -27,17 +46,24 @@ There is no trade deadline.
 * Remaining league dues will:
 * 
 
+## Schedule
+* Playoffs start in week 15 (no earlier, at least, to avoid bye weeks)
+
 ## League Setup
 1. If a team wins the championship 3 years in a row, pay out the empire pot and reset the league
    a. Alternatively, dispersal draft? Winning team goes into a pool and any team that wants to reset can join that pool. This clearly doesn't work with money assigned to contracts.
    b. Could go to a vote?
-   c. Could be 3 times, period. Or reset that "3times period" periodically. Or twice in a row. Or some combination thereof.
+   c. Could be 3 times, period. Or reset that "3 times period" periodically. Or twice in a row. Or some combination thereof.
+
+## Replacement Owners
+
 
 ## Nutshell
 * 10 teams
 * 30 roster spots
 * 5 taxi squad spots
 * 0.5 point PPR / 4 point passing TDs
+* Best ball???
 
 ## Scoring
 * 4 points per passing TD
@@ -70,3 +96,4 @@ There is no trade deadline.
 * Of non-playoff teams, team with the fewest potential points gets the first (1st) draft pick in each round.
 * Note, team picks may have been traded to other teams before the order is determined. The draft position of the original owner of that pick is transferred with the pick.
   * Eg, at the start of the 2023 season, Team A trades their 2024 first for Team B's 2024 first. Team A goes on to win the league. Team B wins zero games and has the fewest potential points. Assuming no other trades, Team A is drafting at 1.01 and 2.10, etc, while Team B is drafting at 1.10 and 2.01, etc.   
+* Based on 6 team playofss. Maybe 4 is better? Probably not? With 4, nobody is playing in a money-less game, but I don't really remember that being a problem.
