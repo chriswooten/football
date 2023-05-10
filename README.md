@@ -15,6 +15,10 @@ This will attempt to summarize rules. If the summary does not agree with the det
    - For everyone else, most potential points assigned pick 4, etc.
 2. Prices will be determined based on draft order. See [Rookie Draft Prices](#rookie-draft-prices)
 
+### Free Agent Draft
+1. Time allowing, everyone will have at least 7 days of end of free agent draft to get contracts in. Official date will be known at that time.
+2. We'll see how slow startup draft goes before deciding future. They are all pretty demanding and hard to deal with schedules, so if slow draft goes well then we'll probably bring it back. Perhaps with modified rules.
+
 ### Transition Tags
  - Each team may assign a transition tag to up to 2 players each season
  - Players receiving a transtion tag must have a contract ending before the next season and must have been on the team's roster to end the regular season
@@ -87,6 +91,19 @@ Pretty standard 0.5 PPR. See [scoring details](#scoring-details)
    | 4     | Team 1  | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 | Team 7 | Team 8 | Team 9 | Team 10 |
    | 5     | Team 10 | Team 9 | Team 8 | Team 7 | Team 6 | Team 5 | Team 4 | Team 3 | Team 2 | Team 1  |
 
+### Startup Free Agent Draft
+ * First 10 rounds will be "live" (everyone bidding against eachoter in some online chat thing). Rotate through teams nominating who they want bidding to be on.
+ * Rest of rosters will be filled through slow blind bids. I envision making a website for this where everyone submits a player and their opening bid. Then, the next day, you find out all the players nominated and bid accordingly while submitting your players for the next day.
+   * May be optimistic and I create an email account to send bids and players to so I don't see them until processing them.
+ * You will be allowed to modify your bids until midnight
+ * If any significant news comes out about a player during the day of their bidding, all bids on that player will be void and they will be included in bidding the next day with a starting bid of $0 to nobody
+   * If nobody bids on them they will just go back into the pool
+   * What's significant news? Injuries, Suspensions.
+ * Ties will be decided by a standard waiver order. Initial waiver order will be reverse of the rookie draft (may want to consider this when picking where you draft).
+ * Two players nominating the same player will??
+ * For the non-live part of this, winning bid will be second place bid plus $1.
+
+
 ### Rookie Draft Pick Orders
  - 1st place is assigned pick 10 in the next season
  - 2nd place is assigned pick 9 in the next season
@@ -94,6 +111,7 @@ Pretty standard 0.5 PPR. See [scoring details](#scoring-details)
  - 4th place is assigned pick 7 in the next season
  - 5th and 6th place are assigned picks 5 and 6. Team with highest potential points is assigned pick 6 while the other team is assigned pick 5
  - Everyone else is assigned picks 1, 2, 3, and 4. Team with highest potential points is assigned pick 4, next highest is assigned pick 3, next highest is assigned pick 2, and fewest is assigned pick 1.
+ - Please note, the third-round-reversal is ***only*** for startup. Future rookie drafts are straight up drafts, like NFL rookie draft.
 
 ### Rookie Draft Prices
 | Round | Pick 1 | Pick 2 | Pick 3 | Pick 4 | Pick 5 | Pick 6 | Pick 7 | Pick 8 | Pick 9 | Pick 10 |
@@ -140,16 +158,30 @@ Pretty standard 0.5 PPR. See [scoring details](#scoring-details)
  - Central time will be used for all cutoffs that aren't maintained by the league software
 
 ### Important Dates
+ - Trade deadline
+ - Extensions deadline
+ - Steal deadline
+ - Drop deadline
+ - Contracts due by
+ - Rookie draft
+ - Free agent draft
 
 ### FAQ
 Q: Chris, I realy loved franchise tags. What happened to them?
 
 A: (1) Liar. (2) Just trade your first for the player before the end of the season and [transtion tag](#transition-tags) them, then.
 
+-----
 Q: What about extending contracts when we promote players from taxi squads?
 
 A: Just extend like normal.
 
+-----
 Q: Stealing players from a taxi squad is expensive! Can't you make it cheaper?
 
 A: Trade for them, then.
+
+-----
+Q: This whole free-agent slow bid is weird and different than everything else. What the hell?
+
+A: Yep. I hear ya. Lot of things different in this league. You can do it!
