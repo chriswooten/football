@@ -7,6 +7,8 @@ This will attempt to summarize rules. If the summary does not agree with the det
 ### Startup
 1. Rookie draft determined randomly and will be third-round reversal draft. See [Startup Rookie Draft](#startup-rookie-draft)
 2. Free agent draft will be auction draft and take place live for 10 rounds and then proceed online, blind bidding on up to 10 players per day.
+3. If you run out of when processing blind bids to process a certain bid, you're highest value bids that you can afford will be prioritized.
+4. If you run out of money completely during the blind bids, you will not be able to nominate players.
 
 ### Rookie Draft
 1. Draft order determind by final standings of previous season (See [Rookie Draft Pick Orders](#rookie-draft-pick-orders)):
@@ -19,12 +21,15 @@ This will attempt to summarize rules. If the summary does not agree with the det
 1. Time allowing, everyone will have at least 7 days of end of free agent draft to get contracts in. Official date will be known at that time.
 2. We'll see how slow startup draft goes before deciding future. They are all pretty demanding and hard to deal with schedules, so if slow draft goes well then we'll probably bring it back. Perhaps with modified rules.
 
+### Playoffs
+1. Playoffs begin in week 14 and conclude in week 17.
+
 ### Transition Tags
  - Each team may assign a transition tag to up to 2 players each season
  - Players receiving a transtion tag must have a contract ending before the next season and must have been on the team's roster to end the regular season
  - Owners must declare transition tags before 3/1 and may reverse their decision before 3/1
  - Players designated for a transition tag will receive a 1 year contract and must become free agents after that 1 year
- - Costs determined as the [average of the highest paid players at their position](#position-tiers) or current salary + 10% - whichever is higher.
+ - Costs determined as the [average of the highest paid players at their position](#position-tiers) or current salary + 10% - whichever is higher. Average salary is always calculated on contracts as they exist exiting the free agent draft.
 
 ### Holdouts
  - Players may not holdout if:
@@ -34,12 +39,26 @@ This will attempt to summarize rules. If the summary does not agree with the det
  - Players that may hold out will if, at the end of the complete fantasy season (through the championship game), they finish in the [top tier of their position](#position-tiers) (this means scoring more points than the average of those top tiers) and they are paid less than 50% of the average salary for the players paid in the [top tier of their position](#position-tiers).
  - Players who holdout must be (1) cut, suffering normal contract penalties based on their previous contract or (2) have their salary increased to 75% of the average for the players paid in the [top tier of their position](#position-tiers).
 
+### Extensions
+ * Players may have their contract extended one time.
+ * Extensions increase a players salary by 10% or to $10 - whichever is more.
+ * Players on the final year of their contract must be extended before the extension deadline, 3 weeks before week 1 games begin
+ * Rookies on the final year of their contract may be extended after the extension deadline if they are being promoted from the taxi squad and extended within 24 hours of being promoted.
+
 ### Taxi Squad
-1. Players acquired during the rookie draft are automatically assigned a 3 year contract and placed on the team's taxi squad
-2. Players on a taxi squad only have 25% of their salary count toward the team's salary cap (eg, a $60 players costs $15)
-3. Within one week of the free agent draft, teams must reduce their taxi squad to no more than 5 players. This can be done through cuts or activations.
-4. Players on the taxi squad may be cut for no penalty.
-5. Taxi squad players may be stolen. There will be a message board post for this with details on how to initiate activating a player from someone else's taxi squad. The cost is 2 picks - one must come from the same round the player was drafted in, or better, and the other must come from a better round (eg, you can't steal a first round pick. A second round pick costs a first and a second or two firsts)
+1. Players acquired during the rookie draft are automatically assigned a 3 year contract and placed on the team's taxi squad.
+2. The rookie draft and trading for rookies already on a taxi squad are the only way to add players to a team's taxi squad.
+3. Players on a taxi squad only have 25% of their salary count toward the team's salary cap (eg, a $60 players costs $15)
+4. On same day contracts due (time allowing, at least 7 days after free agent draft), teams must reduce their taxi squad to no more than 5 players. This can be done through cuts, activations, or trades.
+5. Players on the taxi squad may be cut for no penalty.
+6. Taxi squad players may be stolen. There will be a message board post for this with details on how to initiate activating a player from someone else's taxi squad. The cost is 2 picks - one must come from the same round the player was drafted in, or better, and the other must come from a better round (eg, you can't steal a first round pick. A second round pick costs a first and a second or two firsts)
+7. Owners have the right to match an offer on their own taxi squad player, preventing them from being stolen. Preventing the steal must be done within 24 hours of the activation.
+8. Taxi squad players may not be stolen after the trade deadline
+
+### Trades
+1. No collusion ;-)
+2. Teams may trade players, draft picks for the current season, and draft picks for the next season.
+3. All trades must be completed before the trade deadline.
 
 ### Injured Reserve
  * Each team has 4 injured reseve slots.
@@ -53,16 +72,19 @@ This will attempt to summarize rules. If the summary does not agree with the det
  * Starting rosters are 1 QB, 2 RB, 2 WR, 1 TE, and 3 FLEX
  * In addition to the 25 roster spots, teams have 4 [Injured Reserve](#injured-reserve) spots and 5 [Taxi Squad](#taxi-squad) spots
 
-
 ### Scoring
 Pretty standard 0.5 PPR. See [scoring details](#scoring-details)
 
 ### Waivers
  * Teams may use their unspent salary for blind bidding on free-agents during waivers
  * Link to leaague software's waiver bidding will be made available or it will be described here and distributed to the league.
- * FAAB claims will be processed every Thursday morning at 3 AM Central and every Sunday morning at 3 AM Central
+ * FAAB claims will be processed every Thursday morning at 3 AM Central and every Sunday morning at 3 AM Central (dependant on league software)
  * Free agents are always on waivers except while processing waiver bids
  * Players acquired from waivers 
+ * Contract length must be posted within 48 hours of aquiring the player. If no length is posted, it will default to 1 year.
+ * The waiver window begins 1 month before the first regular season game.
+  * If contracts are not due before this, then waivers will open after contracts are due.
+ * Waivers close as soon as the week 17 games begin
 
 ### Bureaucracy
 #### Commissioner
@@ -158,18 +180,24 @@ Pretty standard 0.5 PPR. See [scoring details](#scoring-details)
  - Central time will be used for all cutoffs that aren't maintained by the league software
 
 ### Important Dates
- - Trade deadline
+ - Trade deadline: Commencement of NFL Week 12 games
  - Extensions deadline
- - Steal deadline
+ - Taxi Squad Steal deadline: Commencement of NFL Week 12 games
  - Drop deadline
  - Contracts due by
  - Rookie draft
  - Free agent draft
 
+### Important Times
+ - 24 hours to respond to a taxi squad activation
+ - 48 hours to assign a contract length to players acquired from waivers
+ - 7+ days (time allowing) to get contracts in following the free agent draft
+ - 7+ days (time allowing) to get taxi squads down to 5 or fewer players following the free agent draft
+
 ### FAQ
 Q: Chris, I realy loved franchise tags. What happened to them?
 
-A: (1) Liar. (2) Just trade your first for the player before the end of the season and [transtion tag](#transition-tags) them, then.
+A: (1) Liar. (2) Just trade your first for the player before the trade deadline and [transtion tag](#transition-tags) them, then.
 
 -----
 Q: What about extending contracts when we promote players from taxi squads?
@@ -185,3 +213,13 @@ A: Trade for them, then.
 Q: This whole free-agent slow bid is weird and different than everything else. What the hell?
 
 A: Yep. I hear ya. Lot of things different in this league. You can do it!
+
+-----
+Q: What this "Average salary is calculate on contracts as they exist exiting the free agent draft" business?
+
+A: TBD if it's more work, but it seems like we need an official cutoff for this. And immediately following the free agent draft (whether calculated then or, more likely, recreated) means you can't sign Gronk to an $800 contract at the end of the season to sabotage the TE market. Sure, sure, you can still draft him for $800, but then it's not a surprise to anyone as the season wraps. You do you.
+
+-----
+Q: Why can we only add players to taxi squads through the rookie draft and trading for players already on a taxi squad? It was different before!
+
+A: Keep it simple.
