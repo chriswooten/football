@@ -7,7 +7,7 @@ This will attempt to summarize rules. If the summary does not agree with the det
 ### Startup
 1. Rookie draft determined randomly and will be third-round reversal draft. See [Startup Rookie Draft](#startup-rookie-draft)
 2. Free agent draft will be auction draft and take place live for 10 rounds and then proceed online, blind bidding on up to 10 players per day.
-3. If you run out of when processing blind bids to process a certain bid, you're highest value bids that you can afford will be prioritized.
+3. If you run out of money when processing blind bids to process a certain bid, you're highest value bids that you can afford will be prioritized.
 4. If you run out of money completely during the blind bids, you will not be able to nominate players.
 
 ### Rookie Draft
@@ -49,7 +49,7 @@ This will attempt to summarize rules. If the summary does not agree with the det
 1. Players acquired during the rookie draft are automatically assigned a 3 year contract and placed on the team's taxi squad.
 2. The rookie draft and trading for rookies already on a taxi squad are the only way to add players to a team's taxi squad.
 3. Players on a taxi squad only have 25% of their salary count toward the team's salary cap (eg, a $60 players costs $15)
-4. On same day contracts due (time allowing, at least 7 days after free agent draft), teams must reduce their taxi squad to no more than 5 players. This can be done through cuts, activations, or trades.
+4. On same day contracts are due (time allowing, at least 7 days after free agent draft), teams must reduce their taxi squad to no more than 5 players. This can be done through cuts, activations, or trades.
 5. Players on the taxi squad may be cut for no penalty.
 6. Taxi squad players may be stolen. There will be a message board post for this with details on how to initiate activating a player from someone else's taxi squad. The cost is 2 picks - one must come from the same round the player was drafted in, or better, and the other must come from a better round (eg, you can't steal a first round pick. A second round pick costs a first and a second or two firsts)
 7. Owners have the right to match an offer on their own taxi squad player, preventing them from being stolen. Preventing the steal must be done within 24 hours of the activation.
